@@ -4,11 +4,11 @@ Tugas Kecerdasan Buatan Angel Setianto_1901020016
 DFS 
 pada baris 1- 12: terdapat graph yang berfungsi untuk melakukan pemetaan data atau yang menghubungkan node(titik) dalam sebuah kumpulan data yang menjadi simpul atau dapat dikatakan sebagai database.
 
-pada baris 13 : digunakan untuk melacak atau mencari node yang akan di kunjungi
+pada baris 1 : digunakan untuk melacak atau mencari node yang akan di kunjungi
 
-pada baris 15-20 : terdapat beberapa algoritma yang dimana jalan pertamanya adalah memeriksa apakah nodes sudah dikunjungi apa belum, apabila nodes belum dikunjungi maka akan di tambahkan 
+pada baris 16-21 : terdapat beberapa algoritma yang dimana jalan pertamanya adalah memeriksa apakah nodes sudah dikunjungi apa belum, apabila nodes belum dikunjungi maka akan di tambahkan 
 
-pada baris 22 : fusngsi dari dfs dipanggil, lalu mengunjungi nodes, lalu mendapatkan grafik, dan 1 yang merupakan simpul awal
+pada baris 23 : fusngsi dari dfs dipanggil, lalu mengunjungi nodes, lalu mendapatkan grafik, dan 1 yang merupakan simpul awal
 
 BFS
 pada baris 1-12: terdapat graph yang berfungsi untuk melakukan pemetaan data atau yang menghubungkan node(titik) dalam sebuah kumpulan data yang menjadi simpul atau dapat dikatakan sebagai database.
